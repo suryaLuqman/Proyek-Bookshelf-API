@@ -52,10 +52,9 @@ Step 4
 </h3>
 Fourth, import Postman Bookshelf API Test Collection dan Environment
 
-<p align="middle">
-![import](https://user-images.githubusercontent.com/44109243/227304890-b85cae65-9384-4a46-9b90-ab865e7e8e05.jpeg)
+![import](https://user-images.githubusercontent.com/44109243/227310607-3358fa96-00db-4a9e-9dff-9bdb8bdf7b34.jpeg)
 
-</p>
+  
 
 <h3 >
 
@@ -64,6 +63,7 @@ Step 5
 </h3>
 Fifth, Run Bookshelf API Test Collection
 
+![Run Collection ](https://user-images.githubusercontent.com/44109243/227311137-b9137837-8515-4f80-b344-9b0f28a4bd1d.png)
 
 
 
