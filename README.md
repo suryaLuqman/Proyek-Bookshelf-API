@@ -70,6 +70,18 @@ Step 5
 </h3>
 
 ```sh
+> Set Active as active Environment.
+```
+
+![Cuplikan layar 2023-05-10 013821](https://github.com/suryaLuqman/Proyek-Bookshelf-API/assets/44109243/e9a9a41e-679b-40cf-bafc-b5c926d4c043)
+
+<h3 >
+
+Step 6
+
+</h3>
+
+```sh
 > Run Bookshelf API Test Collection.
 ```
 
