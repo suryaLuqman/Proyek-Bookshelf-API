@@ -32,7 +32,7 @@ Step 2
 Second, install the packages needed to run the program via the following command :
 
 ```sh
-cd cd .\submission\ -> npm install
+cd .\submission\ -> npm install
 ```
 
 you can also install using another package manager according to your use
