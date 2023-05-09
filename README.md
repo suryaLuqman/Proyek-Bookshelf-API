@@ -32,7 +32,11 @@ Step 2
 Second, install the packages needed to run the program via the following command :
 
 ```sh
+<<<<<<< HEAD
 cd .\submission\ -> npm install
+=======
+npm install
+>>>>>>> 79cf3f2 (update code handler and fix eslint)
 ```
 
 you can also install using another package manager according to your use
@@ -70,6 +74,7 @@ Step 5
 </h3>
 
 ```sh
+<<<<<<< HEAD
 > Set Active as active Environment.
 ```
 
@@ -82,6 +87,8 @@ Step 6
 </h3>
 
 ```sh
+=======
+>>>>>>> 79cf3f2 (update code handler and fix eslint)
 > Run Bookshelf API Test Collection.
 ```
 
